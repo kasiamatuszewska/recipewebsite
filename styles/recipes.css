@@ -1,7 +1,7 @@
 /*! CSS bare bones for recipes site */
 
  html {
-  font-family: sans-serif;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
 }
@@ -13,5 +13,60 @@
 }
 
 /* the rest is up to you */
+body {
+  background-color: bisque;
+}
 
+h1 {
+  color:rgb(240, 157, 236);
+  margin-bottom: 12px;
+  font-style: italic;
+ 
+  text-align: center;
+}
+h2 {
+color: rgb(240, 157, 236);
+margin: 0 0 12px 0;
+}
+
+h1,h2 {
+font-family: 'Times New Roman', Times, serif;
+}
+
+p {
+  color: black;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+margin-bottom: 1em;
+}
+
+main {
+  width:60%;
+  max-width: 850px;
+  /* border:1px solid purple; */
+  padding: 0 12px 0 12px; 
+  margin: 0 auto;
+  background-color: white;
+}
+
+img {
+  width:50%;
+  float: right;
+}
+ul {
+  margin-left: 12px;
+  /* columns:2; */
+}
+
+li {
+  font-size: .8em;
+  margin-bottom: 12px;
+  list-style-position: inside;
+}
+
+.caption {
+  float: right;
+  width: 55%;
+  font-size: .8em;
+
+}
 
