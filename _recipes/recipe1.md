@@ -9,6 +9,9 @@ published: true
 
 ![Delicious Plate of Toast, Blueberries and Bananas, covered in sticky maple syrup](../uploads/joseph-gonzalez-zcUgjyqEwe8-unsplash.jpg "Photo by Joseph Smart")
 
+\
+I would rate the recipe for Bigos (Polish Hunter's Stew) at a 4 out of 5 on the difficulty scale. This dish is a slow-cooked stew and requires a few hours of simmering to get the flavors to meld together. It also requires some patience and attention to detail when it comes to the specific ingredients and proportions.
+
 **INGREDIENTS:** 
 
 \-1 tablespoon olive oil
@@ -44,11 +47,8 @@ published: true
 **METHOD:** 
 
 1. Heat the olive oil in a large pot over medium heat. Add the onion and bell pepper and cook until softened, about 5 minutes. Add the garlic and cook for 1 minute more. 
-
 2. Add the pork and sausage and cook until browned, about 8 minutes. 
-
 3. Add the diced tomatoes, tomato sauce, beef broth, oregano, thyme, paprika, and salt and pepper. Bring to a boil, then reduce the heat to low and simmer for 20 minutes. 
-
 4. Add the potatoes and simmer for 15
 
 **ENJOY!**
