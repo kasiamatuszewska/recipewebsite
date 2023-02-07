@@ -1,32 +1,48 @@
 ---
-layout: recipe
-title: Any Recipe
+title: Dumplings (Pierogi)
 date: 2019-10-19
-published: true
 order: 1
+layout: recipe
+published: true
 ---
-This introduces the recipe and is a pargaraph of text. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Dumplings filled with a variety of fillings, such as cheese, potatoes, sauerkraut, or fruit.**
 
-## Ingredients
+**Ingredients:**
 
-- prehenderit deserunt veniam sunt et. 
-- Nulla ea est commodo minim quis. 
-- Amet cillum mollit cupidatat sunt tempor qui quis sunt ipsum.
+\- 2 cups all-purpose flour 
 
-## Method
+\- 1 teaspoon salt 
 
-Veniam culpa ea cillum est qui ullamco velit esse labore. Proident aute irure dolore aliqua dolor reprehenderit duis enim eiusmod. Magna voluptate fugiat nulla sunt nostrud sit. Sit cupidatat cillum culpa sint ex eu.
+\- 2 eggs 
 
-Ullamco ullamco voluptate et nostrud aliquip nostrud cillum laboris qui ipsum cillum ad irure. Enim sunt proident cillum consectetur velit nostrud aliquip excepteur consequat officia laboris. Aute est qui exercitation voluptate irure dolor reprehenderit id laborum proident. Lorem eu proident est duis irure non est nostrud.
+\- 2 tablespoons butter, melted 
 
-Dolore commodo consequat proident adipisicing consectetur ut consequat et enim quis non excepteur cupidatat. Nostrud eiusmod aute proident in ex cupidatat enim. Nulla aliquip mollit incididunt aliqua velit do nisi. Ullamco magna ad culpa dolor sint mollit.
+\- 1/2 cup water, plus more if needed 
 
-Ullamco esse Lorem nostrud consectetur elit. Veniam do excepteur exercitation adipisicing aliquip pariatur aliqua tempor minim. Nisi aute ut elit ut labore esse amet veniam ad sint ullamco minim est. Amet id non velit quis sit aliquip reprehenderit nisi ipsum pariatur sint enim reprehenderit. Qui id proident Lorem duis do nulla enim laboris commodo eu in enim esse.
+\- 1/2 pound ground pork or beef 
 
-### For the sauce
+\- 1 small onion, finely chopped 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+\- 1 teaspoon dried marjoram 
+
+\- 1 teaspoon garlic powder 
+
+\- Salt and pepper to taste 
+
+\- 1/4 cup chopped fresh parsley 
+
+\- 1/4 cup breadcrumbs 
+
+**Method:**
+
+1. In a large bowl, combine the flour and salt. In a separate bowl, beat the eggs, melted butter and water together. 
+
+2. Slowly add the egg mixture to the flour mixture, stirring with a wooden spoon until the dough comes together. If the dough is too dry, add a little more water. 
+
+3. Turn the dough out onto a floured surface and knead for about 5 minutes. Cover with a damp cloth and set aside. 
+
+4. In a medium bowl, combine the ground pork or beef, onion, marjoram, garlic powder, salt and pepper, parsley and breadcrumbs.
 
 
-- Serves 10
-- Cooking time 3 hours 
+
+**ENJOY!**
