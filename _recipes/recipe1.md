@@ -1,46 +1,54 @@
 ---
-layout: recipe
-title: Some recipe
+title: Bigos (Polish Hunter's Stew)
 date: 2022-10-19
+order: 1
+layout: recipe
 published: true
-order: 2
 ---
-Aute velit minim ad ut deserunt ipsum eiusmod. Laborum nisi ex qui exercitation elit dolor consectetur. Ullamco ex eiusmod ad dolor nisi adipisicing est esse. Veniam nostrud do laboris id est nulla qui nulla. Lorem velit nulla in tempor nisi laboris. Dolor culpa mollit elit anim minim Lorem.
+**A stew made from sauerkraut, onions, mushrooms, kielbasa, and other meats.**
 
 ![Delicious Plate of Toast, Blueberries and Bananas, covered in sticky maple syrup](../uploads/joseph-gonzalez-zcUgjyqEwe8-unsplash.jpg "Photo by Joseph Smart")
 
+**INGREDIENTS:** 
 
-## Ingredients
+\-1 tablespoon olive oil
 
-- 1 kg something or something else
-- 160 ml something or something else
-- ½ large something or something else
-- 450 grams something or something else
-- 1 glass white wine 
-- 350 grams fresh something or something else,
-- 1400 grams something or something else, drained of some of their juice and chopped
-- teaspoon ground something or something else
-- teaspoon ground something or something else
-- salt and black pepper
-- 1 teaspoon oregano
-- 25 grams grated Parmesan, Kefalotiri, or Gruyere cheese
-- some chopped something
-- 80 grams something
-- 80 grams something else
-- 600 ml warm something
-- 2 egg yolks
-- 4 tablespoons toasted something or something else
+\-1 large onion, chopped 
 
+\-1 red bell pepper, chopped 
 
-## Method
+\-2 cloves garlic, minced 
 
-Occaecat nulla proident do aute non amet cillum et enim. Non in commodo consequat minim. Id excepteur adipisicing cillum minim Lorem anim est eiusmod incididunt. Consectetur nostrud pariatur amet enim dolore labore deserunt tempor magna fugiat dolor veniam anim. Ut ex sit ullamco ullamco magna aliqua cupidatat ullamco adipisicing tempor. Cupidatat fugiat in consectetur quis sunt laboris qui veniam sunt id deserunt minim.
+\-1 lb. boneless pork shoulder, cubed 
 
-Laborum dolore minim veniam excepteur aliquip aliqua mollit minim id exercitation ipsum. Quis sint qui enim labore amet irure culpa eiusmod ullamco amet minim aliquip ut eiusmod. Qui Lorem dolore labore esse reprehenderit cillum reprehenderit.
+\-1 lb. smoked sausage, sliced 
 
-Do elit laboris irure pariatur nostrud officia. Proident anim amet officia irure occaecat aliqua nisi ex. Non minim excepteur consectetur mollit aliquip ad occaecat est velit. Enim laboris mollit reprehenderit cupidatat voluptate ipsum aliquip nostrud deserunt amet. Qui aliquip deserunt commodo pariatur qui anim. Aliquip excepteur reprehenderit in sint enim Lorem non Lorem pariatur adipisicing dolore ullamco incididunt ullamco.
+\-1 (14.5 oz.) can diced tomatoes 
 
-Cupidatat nostrud excepteur sunt exercitation excepteur dolor adipisicing. Aliqua et commodo do duis fugiat non consequat duis. Esse velit velit sit aute voluptate exercitation cupidatat velit cupidatat duis culpa non duis deserunt. Non voluptate et ea incididunt elit irure eu irure ullamco ea Lorem tempor. Veniam sint irure reprehenderit mollit nisi amet fugiat nulla duis. Nulla nostrud sint reprehenderit est enim dolore ipsum. Sint eu anim excepteur consectetur ipsum.
+\-1 (15 oz.) can tomato sauce 
 
-- Serves: 6
-- Preparation time: 1 hour
+\-1 (14.5 oz.) can beef broth 
+
+\-1 teaspoon dried oregano 
+
+\-1 teaspoon dried thyme 
+
+\-1 teaspoon paprika 
+
+\-Salt and pepper, to taste 
+
+\-2 potatoes, peeled and cubed 
+
+\-1/2 cup frozen peas 
+
+**METHOD:** 
+
+1. Heat the olive oil in a large pot over medium heat. Add the onion and bell pepper and cook until softened, about 5 minutes. Add the garlic and cook for 1 minute more. 
+
+2. Add the pork and sausage and cook until browned, about 8 minutes. 
+
+3. Add the diced tomatoes, tomato sauce, beef broth, oregano, thyme, paprika, and salt and pepper. Bring to a boil, then reduce the heat to low and simmer for 20 minutes. 
+
+4. Add the potatoes and simmer for 15
+
+**ENJOY!**
