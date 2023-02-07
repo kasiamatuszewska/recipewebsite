@@ -1,5 +1,5 @@
 ---
-title: Dumplings (Pierogi)
+title: Pierogi (Dumplings)
 date: 2019-10-19
 order: 1
 layout: recipe
