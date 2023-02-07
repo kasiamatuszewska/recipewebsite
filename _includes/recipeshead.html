@@ -1,0 +1,21 @@
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <!--get the images to enlarge-->
+    <link rel="stylesheet" href="{{site.baseurl}}/assets/css/jquery.fancybox.css">
+
+    <!--basic stylesheet-->
+    <link rel="stylesheet" href="{{site.baseurl}}/styles/recipes.css">
+    
+    {% include favicons.html %}
+    <!-- Canonical -->
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
+
+    {%- if page.title != site.hide_title -%}
+      <title>{{site.title}} | {{ page.title }}</title>
+    {%- else -%}
+      <title>{{site.title}}</title>
+    {%- endif -%}
+    {%- include javascripts.html -%}
+</head>

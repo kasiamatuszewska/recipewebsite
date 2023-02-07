@@ -1,0 +1,7 @@
+---
+layout: recipesite
+---
+  <section class="post-content">
+    <h1 id="{{ page.title | escape }}" class="title">{{ page.title }}</h1>
+    {{ content | replace: "../uploads", "/uploads" }}
+  </section>

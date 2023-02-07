@@ -1,0 +1,16 @@
+<div class="list">
+  {%- assign items = site.recipes | sort: 'order' -%}
+    {% for recipe in items limit:30 %}
+    
+    <section class="recipe-teaser">
+      <h1>
+        <a aria-label="{{ recipe.title }}" class="post-link" href="{{ recipe.url | relative_url }}">
+        {{ recipe.title }}
+        </a>
+      </h1>
+      <div class="excerpt">
+        {{ recipe.excerpt }}
+      </div>
+    </section>
+    {% endfor %}
+</div>

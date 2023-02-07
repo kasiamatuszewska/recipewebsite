@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  {% include recipeshead.html %}
+  <body class="{{page.layout}} {{page.title | replace: ' ', '_'}}">
+    {% include recipenavbar.html %}
+    {% include recipemenu.html %}
+    <main>
+      
+    {%- if page.layout == "recipeshome" -%}
+    {%- if page.coverimage -%}
+      <div class="home">
+        <a title="see a list of all recipes" href="/recipelist">
+        <img class="cover" src="{{ page.coverimage | relative_url }}" alt="{{ home_page[0].title }}" />
+        </a>
+      </div>
+    {%- endif -%}
+    {%- endif -%}
+      {{ content | replace: "../uploads", "/uploads" }}
+      {%- if page.layout == "recipeshome" -%}
+      <button><a title="see a list of all recipes" href="/recipelist">see a list of all recipes</a></button>
+      {%- endif -%}
+    </main>
+
+    {% include footer.html %}
+    {% include javascriptcode.html %}
+  </body>
+</html>

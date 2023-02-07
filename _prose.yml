@@ -1,0 +1,37 @@
+prose:
+    # rooturl: '_recipes'
+    ignore:
+      - _prose.yml
+      - /_posts
+      - /_layouts
+      - /_includes
+      - /pages
+      - /assets
+      - /resources
+      - .gitignore
+      - .ruby-version
+      - "Gemfile"
+      - "Gemfile.lock"
+    media: "uploads"
+    metadata:
+      _recipes:
+        - name: "layout"
+          field:
+            element: "hidden"
+            value: "recipe"
+        - name: "date"
+          field:
+            element: "text"
+            label: "Date Posted"
+            value: CURRENT_DATETIME
+        - name: "title"
+          field:
+            element: "text"
+            label: "title"
+            placeholder: "Put the title of your recipe here"
+        - name: "order"
+          field:
+            element: "number"
+            label: "Order in the Recipe listing (1-5) - 5 would be last"
+            placeholder: "1"
+
