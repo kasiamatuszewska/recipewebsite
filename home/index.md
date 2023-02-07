@@ -1,9 +1,10 @@
 ---
-layout: recipeshome
-title: Here is the name of your recipe site
-permalink: "/"
+title: Traditional Polish Recipes
 coverimage: ../uploads/bookcover.jpg
+permalink: /
+layout: recipeshome
 published: true
+date: 2023-02-07T11:00:15.048Z
 ---
 
 Here is an introduction to my recipe site
