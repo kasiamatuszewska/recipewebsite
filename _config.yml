@@ -1,8 +1,8 @@
 
 # SITE CONFIGURATION
-url: "https://yoursite.netlify.app"   #change this to yours
-repository: yourusername/yourrepository
-title: Your recipe collection
+url: "https://traditionalpolishrecipes.netlify.app"   #change this to yours
+repository: kasiamatuszewska/recipewebsite
+title: Traditional Polish Recipes
 recipemenu: false # you can change to true and a menu of all recipes will appear
 editbutton: false # you can navigate to edit your site by going to https://yoursite.netlify.app/admin
 # change the above to true and an admin button will appear in your footer
@@ -12,7 +12,7 @@ searchbutton: false # you can have a search feature by adding this button to the
 
 # change the following to your name or site name
 footer_text:
-  "Copyright 2023 My name or site"
+  "Copyright 2023 Kasia Matuszewska"
 
 # DO NOT EDIT BELOW THIS LINE
 
