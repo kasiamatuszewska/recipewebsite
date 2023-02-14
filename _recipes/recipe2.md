@@ -7,6 +7,8 @@ published: true
 ---
 **Dumplings filled with a variety of fillings, such as cheese, potatoes, sauerkraut, or fruit.**
 
+**LEVEL OF DIFFICULTY:**
+
 I would rate the difficulty of making pierogi (dumplings) as a 3 out of 5. While the process of making pierogi can be time-consuming, the steps are relatively straightforward. With a few simple ingredients, a little patience, and some practice, you can easily make delicious pierogi.
 
 **Ingredients:**
