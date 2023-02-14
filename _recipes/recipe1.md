@@ -7,7 +7,7 @@ published: true
 ---
 **A stew made from sauerkraut, onions, mushrooms, kielbasa, and other meats.**
 
-![Delicious Plate of Toast, Blueberries and Bananas, covered in sticky maple syrup]( "Photo by Joseph Smart")
+![](../uploads/picture-1.jpg)
 
 \
 **LEVEL OF DIFFICULTY:**
