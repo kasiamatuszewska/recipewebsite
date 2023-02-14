@@ -6,6 +6,8 @@ layout: recipe
 ---
 **It is a** **thinly pounded pork cutlets, coated in egg and breadcrumbs, and fried.**
 
+![](../uploads/hnjtjj.jpg)
+
 **LEVEL OF DIFFICULTY:**
 
 I would rate the recipe for Kotlet Schabowy (Breaded Pork Cutlet) a 3 out of 5 in difficulty. It isn't overly complicated, but it does require patience, precision, and attention to detail. The most challenging part is getting the breading just right. You need to make sure the pork is evenly and thoroughly coated with the breading before you cook it. It also requires a bit of flipping and turning to ensure that the pork cooks through evenly. The end result is definitely worth it, though!
