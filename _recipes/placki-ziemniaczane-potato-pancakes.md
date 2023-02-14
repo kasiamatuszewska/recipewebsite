@@ -6,6 +6,8 @@ layout: recipe
 ---
 **They are mashed potatoes mixed with eggs, flour, and onion, fried in a pan and served with sour cream and/or applesauce.**
 
+![](../uploads/imiumu.jpg)
+
 **LEVEL OF DIFFICULTY:**
 
 The total cooking time is approximately 15 minutes.Placki ziemniaczane (Potato Pancakes) is a fairly easy dish to make, with a difficulty rating of 3 out of 5.
