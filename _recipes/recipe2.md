@@ -39,7 +39,7 @@ I would rate the difficulty of making pierogi (dumplings) as a 3 out of 5. While
 
 \- 1/4 cup breadcrumbs 
 
-**METHOD::**
+**METHOD:**
 
 1. In a large bowl, combine the flour and salt. In a separate bowl, beat the eggs, melted butter and water together. 
 2. Slowly add the egg mixture to the flour mixture, stirring with a wooden spoon until the dough comes together. If the dough is too dry, add a little more water. 
