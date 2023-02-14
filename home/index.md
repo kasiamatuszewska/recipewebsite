@@ -6,11 +6,5 @@ layout: recipeshome
 published: true
 date: 2023-02-07T11:00:15.048Z
 ---
-
-Here is an introduction to my recipe site
-
-You should use **markdown** to write this text and this will automatically be converted to `HTML`.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Welcome to the world of traditional Polish recipes!\
+Whether you are a seasoned chef, or a novice cook, you will find something to tantalize your taste buds in this book. Immerse yourself in the rich and vibrant flavors of a traditional Polish cusine.  From soups and stews to classic desserts. this book has something for every appetite, and every level of advacement. Discover the secrets of traditional Polish cooking and explore the unique flavors and aromas of this fascinating cusine. Let's get cooking!
