@@ -3,7 +3,7 @@
 url: "https://traditionalpolishrecipes.netlify.app"   #change this to yours
 repository: kasiamatuszewska/recipewebsite
 title: Traditional Polish Recipes
-recipemenu: false # you can change to true and a menu of all recipes will appear
+recipemenu: true # you can change to true and a menu of all recipes will appear
 editbutton: false # you can navigate to edit your site by going to https://yoursite.netlify.app/admin
 # change the above to true and an admin button will appear in your footer
 searchbutton: false # you can have a search feature by adding this button to the footer
