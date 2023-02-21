@@ -8,11 +8,11 @@ layout: recipe
 
 ![](../uploads/imiumu.jpg)
 
-**LEVEL OF DIFFICULTY:**
+# **LEVEL OF DIFFICULTY:**
 
 The total cooking time is approximately 15 minutes.Placki ziemniaczane (Potato Pancakes) is a fairly easy dish to make, with a difficulty rating of 3 out of 5.
 
-**INGREDIENTS:**
+## **INGREDIENTS:**
 
 \-2 large potatoes 
 
@@ -32,7 +32,7 @@ The total cooking time is approximately 15 minutes.Placki ziemniaczane (Potato P
 
 \-2-3 tablespoons of vegetable oil 
 
-**METHOD:**
+### **METHOD:**
 
 1. Peel and grate the potatoes and onion. 
 2. In a large bowl, combine the grated potatoes, onion, flour, egg, salt, pepper, garlic powder, and oregano. Mix until all the ingredients are combined. 
