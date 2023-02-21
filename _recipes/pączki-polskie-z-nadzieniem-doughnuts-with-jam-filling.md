@@ -4,7 +4,7 @@ date: 2023-02-14T13:06:19.468Z
 order: 6
 layout: recipe
 ---
-**Polish doughnuts with jam filling, also known as pączki, are a traditional Polish pastry. The most popular fillings include rosehip jam, plum jam, and sweet cheese.** 
+**Polish doughnuts with jam filling, also known as pączki, are a traditional Polish pastry.** 
 
 ![](../uploads/rghnre.jpg)
 
