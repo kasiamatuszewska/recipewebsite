@@ -1,6 +1,6 @@
 ---
 title: Traditional Polish Recipes
-coverimage: ../uploads/bookcover.jpg
+coverimage: ../uploads/ebook-dp.png
 permalink: /
 layout: recipeshome
 published: true
