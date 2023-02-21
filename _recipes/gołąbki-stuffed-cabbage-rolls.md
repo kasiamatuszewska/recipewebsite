@@ -6,7 +6,7 @@ layout: recipe
 ---
 **They are made of minced meat, onions, and rice wrapped in cabbage leaves and cooked in a tomato sauce.**
 
-![](../uploads/uyjnh.jpg)
+![](../uploads/uyjnh.jpg "Gołąbki")
 
 # **LEVEL OF DIFFICULTY:**
 
