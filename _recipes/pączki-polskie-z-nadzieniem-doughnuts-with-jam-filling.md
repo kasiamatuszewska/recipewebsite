@@ -6,7 +6,7 @@ layout: recipe
 ---
 **Polish doughnuts with jam filling, also known as pączki, are a traditional Polish pastry.** 
 
-![](../uploads/rghnre.jpg)
+![](../uploads/rghnre.jpg "Pączki Polskie z Nadzieniem")
 
 # **LEVEL OF DIFFICULTY:**
 
