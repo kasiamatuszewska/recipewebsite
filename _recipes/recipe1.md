@@ -9,7 +9,7 @@ published: true
 
 ![](../uploads/picture-1.jpg "Bigos")
 
-**LEVEL OF DIFFICULTY:**
+# **LEVEL OF DIFFICULTY:**
 
 I would rate the recipe for Bigos (Polish Hunter's Stew) at a 4 out of 5 on the difficulty scale. This dish is a slow-cooked stew and requires a few hours of simmering to get the flavors to meld together. It also requires some patience and attention to detail when it comes to the specific ingredients and proportions.
 
