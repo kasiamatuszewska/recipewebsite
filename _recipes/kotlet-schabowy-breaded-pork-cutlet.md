@@ -6,7 +6,7 @@ layout: recipe
 ---
 **It is a** **thinly pounded pork cutlets, coated in egg and breadcrumbs, and fried.**
 
-![](../uploads/hnjtjj.jpg)
+![](../uploads/hnjtjj.jpg "Kotlet Schabowy ")
 
 # **LEVEL OF DIFFICULTY:**
 
