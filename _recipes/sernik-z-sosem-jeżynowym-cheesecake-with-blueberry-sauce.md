@@ -8,11 +8,11 @@ layout: recipe
 
 ![](../uploads/gggg.jpg)
 
-**LEVEL OF DIFFICULTY:**
+# **LEVEL OF DIFFICULTY:**
 
 I would rate it a 4. Making a Polish cheesecake can be time consuming and requires a few steps, but the end result is worth the effort. The blueberry sauce adds an extra layer of complexity to the recipe, but is not overly difficult to make.
 
-**INGREDIENTS:**
+## **INGREDIENTS:**
 
 \-Crust:
 
@@ -46,7 +46,7 @@ I would rate it a 4. Making a Polish cheesecake can be time consuming and requir
 
 • 1 tablespoon cold water 
 
-**METHOD:**
+### **METHOD:**
 
 1. Preheat oven to 350 degrees F (175 degrees C). Grease a 9 inch springform pan. 
 2. To make the crust, combine the flour, sugar, and salt in a bowl. Stir in the melted butter until well blended. Press into the bottom of the prepared pan. 
