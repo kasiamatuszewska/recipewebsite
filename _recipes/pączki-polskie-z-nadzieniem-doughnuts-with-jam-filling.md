@@ -8,11 +8,11 @@ layout: recipe
 
 ![](../uploads/rghnre.jpg)
 
-**LEVEL OF DIFFICULTY:**
+# **LEVEL OF DIFFICULTY:**
 
 Polish doughnuts with jam filling are quite difficult to make. They require a lot of time, skill, and patience to get them just right. The dough needs to be kneaded carefully, shaped and deep fried at the right temperature. The jam filling needs to be carefully prepared and the doughnuts need to be filled and sealed with finesse. All in all, it's a labor of love that requires a level of expertise, thereofre I would rate it as a 5 on a scale of 1-5.
 
-**INGREDIENTS:**
+## **INGREDIENTS:**
 
 \- 2 ½ cups all-purpose flour 
 
@@ -32,7 +32,7 @@ Polish doughnuts with jam filling are quite difficult to make. They require a lo
 
 \- Jam of your choice 
 
-**METHOD:**
+### **METHOD:**
 
 1. In a large bowl, combine flour, baking powder, salt, and sugar. 
 2. In a separate bowl, whisk together eggs, milk, melted butter, and vegetable oil. 
