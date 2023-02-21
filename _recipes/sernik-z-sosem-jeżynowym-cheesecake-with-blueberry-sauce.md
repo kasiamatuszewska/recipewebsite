@@ -4,7 +4,7 @@ date: 2023-02-14T13:17:35.052Z
 order: 7
 layout: recipe
 ---
-**A Polish cheesecake is a type of cake made with farmer cheese, eggs, sugar, and butter. It is a popular dish in Poland and has a unique flavor and texture.  It is often served with fresh fruit or jam.**
+**It is a popular dish in Poland and has a unique flavor and texture.  It is often served with fresh fruit or jam.**
 
 ![](../uploads/gggg.jpg)
 
