@@ -7,14 +7,13 @@ published: true
 ---
 **A stew made from sauerkraut, onions, mushrooms, kielbasa, and other meats.**
 
-![](../uploads/picture-1.jpg)
+![](../uploads/picture-1.jpg "Bigos")
 
-# \
 **LEVEL OF DIFFICULTY:**
 
 I would rate the recipe for Bigos (Polish Hunter's Stew) at a 4 out of 5 on the difficulty scale. This dish is a slow-cooked stew and requires a few hours of simmering to get the flavors to meld together. It also requires some patience and attention to detail when it comes to the specific ingredients and proportions.
 
-## **INGREDIENTS:** 
+## **INGREDIENTS:**
 
 \-1 tablespoon olive oil
 
@@ -46,7 +45,7 @@ I would rate the recipe for Bigos (Polish Hunter's Stew) at a 4 out of 5 on the 
 
 \-1/2 cup frozen peas 
 
-### **METHOD:** 
+### **METHOD:**
 
 1. Heat the olive oil in a large pot over medium heat. Add the onion and bell pepper and cook until softened, about 5 minutes. Add the garlic and cook for 1 minute more. 
 2. Add the pork and sausage and cook until browned, about 8 minutes. 
