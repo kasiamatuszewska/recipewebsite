@@ -8,11 +8,11 @@ layout: recipe
 
 ![](../uploads/uyjnh.jpg)
 
-**LEVEL OF DIFFICULTY:**
+# **LEVEL OF DIFFICULTY:**
 
 I would rate the recipe for Polish Gołąbki as a 3 on a scale of 1-5. It requires a bit of time and effort, but the end result is definitely worth it.
 
-**INGREDIENTS:**
+## **INGREDIENTS:**
 
 \-1 pound ground beef 
 
@@ -38,7 +38,7 @@ I would rate the recipe for Polish Gołąbki as a 3 on a scale of 1-5. It requir
 
 \-Salt and pepper to taste
 
-**METHOD:**
+### **METHOD:**
 
 1. Preheat oven to 375 degrees F (190 degrees C).
 2. In a large bowl, combine ground beef, rice, onion, celery, carrots, mushrooms, tomato sauce, garlic powder, onion powder, paprika, Worcestershire sauce, salt, and pepper. Mix until all ingredients are well combined. 
