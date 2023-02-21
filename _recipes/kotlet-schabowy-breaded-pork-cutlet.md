@@ -8,11 +8,11 @@ layout: recipe
 
 ![](../uploads/hnjtjj.jpg)
 
-**LEVEL OF DIFFICULTY:**
+# **LEVEL OF DIFFICULTY:**
 
 I would rate the recipe for Kotlet Schabowy (Breaded Pork Cutlet) a 3 out of 5 in difficulty. It isn't overly complicated, but it does require patience, precision, and attention to detail. The most challenging part is getting the breading just right. You need to make sure the pork is evenly and thoroughly coated with the breading before you cook it. It also requires a bit of flipping and turning to ensure that the pork cooks through evenly. The end result is definitely worth it, though!
 
-**INGREDIENTS:**
+## **INGREDIENTS:**
 
 \- 4 boneless pork cutlets, pounded thin 
 
@@ -28,7 +28,7 @@ I would rate the recipe for Kotlet Schabowy (Breaded Pork Cutlet) a 3 out of 5 i
 
 \- Salt and pepper, to taste 
 
-**METHOD:**
+### **METHOD:**
 
 1. Preheat oven to 350 degrees F. 
 2. Place the pork cutlets between two pieces of wax paper and pound until they are 1/4 inch thick. 
