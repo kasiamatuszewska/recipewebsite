@@ -6,7 +6,7 @@ layout: recipe
 ---
 **It is a popular dish in Poland and has a unique flavor and texture.  It is often served with fresh fruit or jam.**
 
-![](../uploads/gggg.jpg)
+![](../uploads/gggg.jpg "Sernik Z Sosem Jeżynowym ")
 
 # **LEVEL OF DIFFICULTY:**
 
