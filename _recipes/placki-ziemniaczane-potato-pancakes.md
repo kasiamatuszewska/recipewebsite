@@ -6,7 +6,7 @@ layout: recipe
 ---
 **They are mashed potatoes mixed with eggs, flour, and onion, fried in a pan and served with sour cream and/or applesauce.**
 
-![](../uploads/imiumu.jpg)
+![](../uploads/imiumu.jpg "Placki ziemniaczane")
 
 # **LEVEL OF DIFFICULTY:**
 
