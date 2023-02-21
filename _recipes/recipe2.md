@@ -7,7 +7,7 @@ published: true
 ---
 **Dumplings filled with a variety of fillings, such as cheese, potatoes, sauerkraut, or fruit.**
 
-![](../uploads/picture-4jpg.jpg)
+![](../uploads/picture-4jpg.jpg "Pierogi")
 
 # **LEVEL OF DIFFICULTY:**
 
