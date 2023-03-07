@@ -1,7 +1,9 @@
 /*! CSS bare bones for recipes site */
 
+@import url('https://fonts.googleapis.com/css2?family=Old+Standard+TT:ital,wght@0,400;0,700;1,400&display=swap');
+
  html {
-  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-family: 'Old Standard TT', serif;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
 }
@@ -12,55 +14,153 @@
   box-sizing: border-box;
 }
 
-/* the rest is up to you */
-body {
-  background-color: bisque;
+button {
+  background-color: rgb(244, 227, 206);
+  border: none;
+  padding: 15px 32px;
+  text-align: center;
+  font-family: 'Old Standard TT', serif;
+  font-style: bold;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 50%;
+  font-variant: small-caps;
+ 
+}
+
+body{ background-image:url(https://png.pngtree.com/background/20220726/original/pngtree-spices-for-dessert-cooking-seamless-picture-image_1811120.jpg) ;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+}
+
+
+footer {text-align: center;
+  background-color: rgb(114, 20, 20);
+  padding-block: 5px;
+  bottom: 0;
+  width: 100%;
+  position: fixed;
+  font-family:'Old Standard TT', serif;
+  font-size: 12px;
+
+
+}
+
+footer p {
+
+  color: rgb(255, 255, 255);
+font-size:small;
+
+}
+
+
+.post-content 
+{ 
+margin-top: 30px;
+
 }
 
 h1 {
-  color:rgb(240, 157, 236);
+  color:rgb(114, 20, 20);
   margin-bottom: 12px;
   font-style: italic;
  
   text-align: center;
 }
 h2 {
-color: rgb(240, 157, 236);
+color: rgb(255, 255, 255);
 margin: 0 0 12px 0;
 }
 
 h1,h2 {
-font-family: 'Times New Roman', Times, serif;
+font-family: 'Old Standard TT', serif;
+}
+nav {
+  background-color: rgb(244, 227, 206);
+  display: block;
+  border: 1px solid rgb(244, 227, 206);
+  width: 15%;
+  font-variant: small-caps;
+  padding: 10px;
+  margin: 0;
+  text-align: left;
+  font-size: 12px;
+  font-weight: bold;
+  min-width: 120px;
+  position: fixed;
+  top: 7em;
+  left: 0;
+  z-index: 12;
+  text-decoration:none;
 }
 
 p {
   color: black;
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+  font-family:'Old Standard TT', serif;
 margin-bottom: 1em;
+text-align:center;
+
 }
+.post-content p:first-letter {
+  color: #000000;
+  font-size: xx-large;
+}
+
 
 main {
   width:60%;
   max-width: 850px;
   /* border:1px solid purple; */
-  padding: 0 12px 0 12px; 
+  padding: 80px 40px; 
   margin: 0 auto;
-  background-color: white;
+  background-color: rgba(255, 255, 255, 0.973);
 }
 
 img {
-  width:50%;
-  float: right;
-}
+
+    display: block;
+    margin-top: 5%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    height: auto;
+    
+    
+  }
+  .recipe-teaser{
+    border:1px solid rgb(77, 35, 35);
+    padding: 1em;
+    flex-basis: 300px;
+    flex-grow: 1;
+    margin: 1em;
+    font-family:'Old Standard TT', serif;
+  }
+  .list{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+
 ul {
   margin-left: 12px;
   /* columns:2; */
 }
+a:-webkit-any-link {
+  color: rgb(114, 20, 20);
+  cursor:default;
+  text-decoration: none;
+}
+
 
 li {
-  font-size: .8em;
-  margin-bottom: 12px;
+  font-size: 1em;
+  margin-bottom: 20px;
   list-style-position: inside;
+
+
 }
 
 .caption {
@@ -69,4 +169,93 @@ li {
   font-size: .8em;
 
 }
+header {
+  text-align: center;
+  background-color: rgba(244, 227, 206, 0.73);
+  position:fixed;
+  top: 0;
+  padding: 1em 0;
+  width: 100%;
+  z-index: 1;
+  height:5rem;
+}
+header h1{
+  margin: 12px auto;
+}
+@media screen and (max-width: 700px)
+  {
+    nav{
+      margin: 0;
+      position: static;
+      width: 100%;
+    }
+    nav ul{
+      font-size: 1em;
+    }
+    main{
+      width:100%;
+    }
+    body{
+      background-color: white;
+      padding-top: 5em;
+    }
+  img{
+      float:none;
+      margin: 0 auto;
+      width:100%;
+      
 
+    }
+}
+.caption {
+  position:  absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgb(244, 227, 206); 
+  z-index: 9999;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  width: 100%;
+  pointer-events: none;
+}
+
+.caption{
+  display: inline-block;
+  font-family: 'Old Standard TT', serif;
+  font-size: 96px;
+  font-weight: bold;
+  color: rgb(114, 20, 20);
+    margin: auto;
+  width: 100%;
+  padding: 10px;
+  text-align: center;
+}
+
+
+.caption title {
+margin-top: 45%;
+}
+
+.caption {
+  animation: fade-out 4s forwards;
+  animation-delay: 1s;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+@keyframes fade-out {
+  from {
+    top: 0%; left: 0%; 
+    opacity: 1;
+  }
+  to {
+    top: 50% left: 50%; 
+    opacity: 0;
+  }
+}
