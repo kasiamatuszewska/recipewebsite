@@ -26,29 +26,29 @@ I would rate it a 4. Making a Polish cheesecake can be time consuming and requir
 
 \-Filling: 
 
-\- 2 (8 ounce) packages cream cheese, softened 
+- 2 (8 ounce) packages cream cheese, softened 
 
-\-1 cup white sugar 
+-1 cup white sugar 
 
-\-2 eggs 
+-2 eggs 
 
-\- 1 teaspoon vanilla extract 
+- 1 teaspoon vanilla extract 
 
-\- 2 tablespoons all-purpose flour 
+- 2 tablespoons all-purpose flour 
 
-\-2 tablespoons lemon juice 
+-2 tablespoons lemon juice 
 
-\-Blueberry Sauce: 
+-Blueberry Sauce: 
 
-\- 2 cups fresh or frozen blueberries 
+- 2 cups fresh or frozen blueberries 
 
-\-1/4 cup white sugar 
+-1/4 cup white sugar 
 
-\- 1 tablespoon lemon juice 
+- 1 tablespoon lemon juice 
 
-\- 1 tablespoon cornstarch 
+- 1 tablespoon cornstarch 
 
-\-1 tablespoon cold water 
+-1 tablespoon cold water 
 
 ### **METHOD:**
 
