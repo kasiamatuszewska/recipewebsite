@@ -200,13 +200,16 @@ header h1{
       background-color: white;
       padding-top: 5em;
     }
+    .site-title{
+      font-size: 22px;
+    }
+    }
   img{
       float:none;
       margin: 0 auto;
       width:100%;
   }
   
-  }
       
   header {text-align: center;}
 
@@ -228,7 +231,7 @@ header h1{
 .caption{
   display: inline-block;
   font-family: 'Old Standard TT', serif;
-  font-size: 75px;
+  font-size: 50px;
   font-weight: bold;
   color: rgb(114, 20, 20);
     margin: auto;
