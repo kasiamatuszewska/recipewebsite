@@ -22,7 +22,9 @@ I would rate it a 4. Making a Polish cheesecake can be time consuming and requir
 
 \- 1/4 teaspoon salt 
 
-\- 1/4 cup butter, melted -Filling: 
+\- 1/4 cup butter, melted 
+
+\-Filling: 
 
 \- 2 (8 ounce) packages cream cheese, softened 
 
