@@ -37,7 +37,9 @@ The total cooking time is approximately 15 minutes.Placki ziemniaczane (Potato P
 1. Peel and grate the potatoes and onion. 
 2. In a large bowl, combine the grated potatoes, onion, flour, egg, salt, pepper, garlic powder, and oregano. Mix until all the ingredients are combined. 
 3. Heat the oil in a large skillet over medium-high heat. 
-4. Scoop 1/4 cup of the potato mixture into the skillet and press it down to form a pancake. Cook for 3-4 minutes until golden brown and then flip. Cook for another 3-4 minutes until golden brown on the other side. 5. Remove the pancake from the skillet and place on a paper towel-lined plate. 
-5. Repeat the process with the remaining potato mixture. 7. Serve hot with sour cream or applesauce. 
+4. Scoop 1/4 cup of the potato mixture into the skillet and press it down to form a pancake. Cook for 3-4 minutes until golden brown and then flip. Cook for another 3-4 minutes until golden brown on the other side. 
+5. Remove the pancake from the skillet and place on a paper towel-lined plate. 
+6. Repeat the process with the remaining potato mixture. 
+7. Serve hot with sour cream or applesauce. 
 
 **ENJOY!**
