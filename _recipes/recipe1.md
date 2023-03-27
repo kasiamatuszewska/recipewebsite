@@ -50,6 +50,6 @@ I would rate the recipe for Bigos (Polish Hunter's Stew) at a 4 out of 5 on the 
 1. Heat the olive oil in a large pot over medium heat. Add the onion and bell pepper and cook until softened, about 5 minutes. Add the garlic and cook for 1 minute more. 
 2. Add the pork and sausage and cook until browned, about 8 minutes. 
 3. Add the diced tomatoes, tomato sauce, beef broth, oregano, thyme, paprika, and salt and pepper. Bring to a boil, then reduce the heat to low and simmer for 20 minutes. 
-4. Add the potatoes and simmer for 15
+4. Add the potatoes and simmer for 15 minutes.
 
 **ENJOY!**
