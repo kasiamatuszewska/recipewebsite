@@ -45,5 +45,8 @@ I would rate the difficulty of making pierogi (dumplings) as a 3 out of 5. While
 2. Slowly add the egg mixture to the flour mixture, stirring with a wooden spoon until the dough comes together. If the dough is too dry, add a little more water. 
 3. Turn the dough out onto a floured surface and knead for about 5 minutes. Cover with a damp cloth and set aside. 
 4. In a medium bowl, combine the ground pork or beef, onion, marjoram, garlic powder, salt and pepper, parsley and breadcrumbs.
+5. Roll the dough out to 1/8-inch thickness. Cut out circles with a biscuit cutter or a glass. Place a teaspoon of your desired filling in the center of each circle.
+6. Fold the circles in half, add the stuffing, and pinch the edges together to seal.
+7. Bring a large pot of salted water to a boil and gently add the pierogis. Boil for 8-10 minutes.
 
 **ENJOY!**
